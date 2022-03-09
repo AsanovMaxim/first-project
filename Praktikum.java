@@ -1,2 +1,4 @@
-public static class Advisor {
+public class Praktikum {
+    public static void main(String[] args) {
+	}
 }
